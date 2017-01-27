@@ -1,0 +1,20 @@
+div.wrap {
+	background-image:url(../images/brickwall.png);
+	display: inline-block;
+	width:100%;
+ }
+
+.sticky-footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #f5f5f5;
+}
+
+.pad-top {margin-top: 15px}
+
+.h1 {margin-top: 0px}
+
+.img-pad {padding-right: 10px;}
